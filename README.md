@@ -1,6 +1,7 @@
 # Machine Learning Projects at TripleTen
 
 ## Introduction to Machine Learning
+https://github.com/adutt2020/IntroToMachineLearningProject 
 
 **Project Summary:** Refined a classification model aimed at recommending new mobile plans to subscribers by leveraging early machine learning techniques.
 
