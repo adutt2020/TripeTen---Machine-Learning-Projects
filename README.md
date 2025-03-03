@@ -22,6 +22,7 @@ https://github.com/adutt2020/MachineLearningInBusiness
 **Technical Skills:** Linear regression, predictive modeling, business analytics, and data interpretation.
 
 ## Integrated Machine Learning Project
+https://github.com/adutt2020/IntegratedMachineLearningProject
 
 **Project Summary:** Developed and tuned various regression models to approximate gold recovery, incorporating cross-validation for optimal hyperparameter selection.
 
