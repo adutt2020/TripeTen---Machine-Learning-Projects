@@ -9,11 +9,13 @@ https://github.com/adutt2020/IntroToMachineLearningProject
 
 ## Supervised Learning
 https://github.com/adutt2020/Supervised-Learning
+
 **Project Summary:** Predicted customer attrition at Beta Bank using multiple supervised learning models—including Logistic Regression, Decision Trees, and Random Forest Classifiers.
 
 **Technical Skills:** Supervised learning, logistic regression, decision trees, random forest classification, and model validation techniques.
 
 ## Machine Learning in Business
+https://github.com/adutt2020/MachineLearningInBusiness
 
 **Project Summary:** Utilized Linear Regression models to forecast oil reserve volumes in new locations, aiming to maximize profit margins by informing strategic business decisions.
 
